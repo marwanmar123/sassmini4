@@ -1,0 +1,148 @@
+body .container .sec4, body .container .sec3, body .container .sec2 {
+  font-family: "Open Sans", sans-serif;
+  max-width: 1000px;
+  margin: 30px auto;
+  box-shadow: 0 5px 5px 5px #F2F2F2;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  padding: 20px;
+}
+body .container .sec4 div .tof-3, body .container .sec3 div .tof-3, body .container .sec2 div .tof-3, body .container .sec4 div .container, body .container .sec3 div .container, body .container .sec2 div .container {
+  margin: 0;
+  padding: 0;
+}
+
+body .container {
+  max-width: 1440px;
+}
+body .container .sec1 {
+  font-family: "Poppins", sans-serif;
+  background-image: url(images/bg-hero-desktop.svg);
+  height: 500px;
+  margin-bottom: 100px;
+}
+body .container .sec1 .trylogo {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  top: 30px;
+}
+body .container .sec1 .trylogo .logo {
+  margin-left: 50px;
+}
+body .container .sec1 .trylogo .try {
+  margin-right: 90px;
+  display: inline-block;
+  padding: 10px 45px;
+  background: white;
+  border-radius: 2rem;
+  box-shadow: 0 5px 5px #ccc;
+  text-decoration: none;
+  color: black;
+}
+body .container .sec1 .part {
+  margin-top: 60px;
+  margin-left: 70px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+body .container .sec1 .part .ktb {
+  position: relative;
+  top: 50px;
+  left: 60px;
+}
+body .container .sec1 .part .ktb h1 {
+  font-size: 40px;
+}
+body .container .sec1 .part .ktb a {
+  display: inline-block;
+  color: white;
+  margin-top: 20px;
+  background-color: #ff52bf;
+  padding: 10px 45px;
+  border-radius: 2rem;
+  text-decoration: none;
+  box-shadow: 0 2px 2px 2px #ff52bf;
+}
+body .container .sec2 .ktb2 {
+  position: relative;
+  left: 70px;
+  top: 100px;
+}
+body .container .sec3 {
+  margin: 30px auto;
+}
+body .container .sec3 .ktb3 {
+  position: relative;
+  left: 70px;
+  top: 60px;
+}
+body .container .sec4 {
+  margin: 30px auto;
+}
+body .container .sec4 .tof-5 {
+  position: relative;
+  left: 40px;
+}
+body .container .sec5 {
+  background-color: white;
+  text-align: center;
+  max-width: 500px;
+  margin: 0px auto;
+  box-shadow: 0 0 5px #ccc;
+  font-family: "Open Sans", sans-serif;
+  border-radius: 10px;
+  padding: 20px;
+  position: relative;
+  bottom: -60px;
+}
+body .container .sec5 a {
+  display: inline-block;
+  color: white;
+  margin-top: 20px;
+  background-color: #ff52bf;
+  padding: 10px 45px;
+  border-radius: 2rem;
+  text-decoration: none;
+  box-shadow: 0 2px 2px 2px #ff52bf;
+}
+body .container .sec6 {
+  background-color: #302e2e;
+  color: white;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+body .container .sec6 .sec6-1 p {
+  margin-left: 60px;
+}
+body .container .sec6 .sec6-1 .foterimg {
+  margin: 20px;
+}
+body .container .sec6 .sec6-1 .AA {
+  position: relative;
+  top: 35px;
+  left: 30px;
+}
+body .container .sec6 .sec-2 {
+  margin-top: 105px;
+}
+body .container .sec6 .sec-3 {
+  margin-top: 105px;
+}
+body .container .sec6 .sec-4 img {
+  margin-top: 105px;
+  border-radius: 2em;
+}
+body .container .lastp {
+  float: right;
+  font-family: "Poppins", sans-serif;
+  font-size: 10px;
+  color: white;
+  display: inline;
+  margin-right: 40px;
+  position: relative;
+  bottom: 45px;
+}
+
+/*# sourceMappingURL=style.css.map */
